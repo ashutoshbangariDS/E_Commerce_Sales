@@ -2,7 +2,7 @@
 This repository contain the dashboard and readme file for my first project built in PowerBI for Ecommerce Sales.
 # 📊 E-Commerce Power BI Dashboard
 
-![Dashboard Preview](./189e2c1c-0b11-48df-8ae9-9278345a81fb.png)
+![Dashboard Preview](ECOMMERCE.png)
 
 ## 📌 Project Overview  
 This Power BI dashboard provides an **end-to-end analysis of an E-Commerce business**. It highlights key performance metrics such as **sales, profit, quantity, and profit margin** across different segments, categories, regions, and products.  
